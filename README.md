@@ -4,7 +4,7 @@ Welcome to my Google Colab notebook repository!
 
 ## 🚀 Features
 - Generating data cubes with the GBIF SQL interface
-- Interoperability of data cubes in Google Earth Engin
+- Interoperability of data cubes in Google Earth Engine
 - Using GeoBON EBVs
 
 ## 📖 Notebook Preview
