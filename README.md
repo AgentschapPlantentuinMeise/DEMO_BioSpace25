@@ -1,7 +1,7 @@
 # Demo BioSpace25 Biodiversity Data Cubes
 
 Welcome to my Google Colab notebook repository! This is a demonstration of the possibilities with biodiversity data cubes as they are developed in the B-Cubed project.
-![QR Code](./images/B-Cubed_QR.png|width=100)
+<img src="./images/B-Cubed_QR.png" width="100" height="100">
 
 ## 🚀 Features
 - Generating data cubes with the GBIF SQL interface
