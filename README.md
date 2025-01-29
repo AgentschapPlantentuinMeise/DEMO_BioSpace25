@@ -1,7 +1,8 @@
 # Demo BioSpace25 Biodiversity Data Cubes
 
 Welcome to my Google Colab notebook repository! This is a demonstration of the possibilities with biodiversity data cubes as they are developed in the B-Cubed project.
-<img src="./images/B-Cubed_QR.png" width="100" height="100">
+
+<img src="./images/B-Cubed_QR.png" width="200" height="200">
 
 ## 🚀 Features
 - Generating data cubes with the GBIF SQL interface
@@ -19,7 +20,7 @@ Click the link below to open the notebook in Google Colab:
 This project is licensed under the MIT License.
 
 ## Funding
-![Logo EU](./images/eu-logo.png|width=50)
+<img src="./images/eu-logo.png" width="100">
 
 
 B3 (Biodiversity Building Blocks for policy) receives funding from the European Union’s Horizon Europe Research and Innovation Programme (ID No 101059592). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Commission. Neither the EU nor the EC can be held responsible for them.
